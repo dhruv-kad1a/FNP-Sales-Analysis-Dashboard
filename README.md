@@ -6,6 +6,8 @@ To design a comprehensive and visual dashboard that helps stakeholders quickly i
 ## Dataset used file
 - <a href="https://github.com/dhruv-kad1a/FNP-Sales-Analysis-Dashboard/tree/main/Dataset"> FNP dataset Files </a>
 
+## Dashboard Interaction <a href=""
+
 ##  Key Metrics
 Total Orders: 1,000
 Total Revenue: ₹35,20,984.00
