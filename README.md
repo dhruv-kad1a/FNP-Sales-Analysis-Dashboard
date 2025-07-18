@@ -1,2 +1,2 @@
-FNP Sales Analysis Dashboard
-This project presents a visually rich, interactive Sales Analysis Dashboard built in Microsoft Excel for Ferns N Petals (FNP). It aims to provide a clear overview of sales performance, customer behavior, and product trends to support strategic business decisions.
+📊 Executive Summary: FNP Sales Analysis Dashboard
+This project presents an interactive Excel-based Sales Analysis Dashboard for Ferns N Petals (FNP), providing key insights into sales performance across various dimensions like occasion, product category, time, geography, and customer behavior.
