@@ -1,2 +1,2 @@
-# FNP-Sales-Analysis-Dashboard
-Interactive Excel dashboard for FNP analyzing 1,000 orders and ₹35L+ revenue. Tracks sales by occasion, category, time, and region. Highlights top products, peak sales hours, and customer spend. Enables strategic insights through filters and visuals.
+FNP Sales Analysis Dashboard
+This project presents a visually rich, interactive Sales Analysis Dashboard built in Microsoft Excel for Ferns N Petals (FNP). It aims to provide a clear overview of sales performance, customer behavior, and product trends to support strategic business decisions.
