@@ -31,6 +31,6 @@ Top Cities: Cities like Imphal, Dhanbad, and Kavali led in order volumes, showca
 
 ## Outcome
 This dashboard provides a quick yet comprehensive view of business performance, helping:
-• Identify high-performing products and locations
-• Track seasonal or hourly sales trends
-• Understand customer purchase behavior by occasion
+-> Identify high-performing products and locations
+-> Track seasonal or hourly sales trends
+-> Understand customer purchase behavior by occasion
